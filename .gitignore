@@ -1,0 +1,12 @@
+
+.idea/
+
+.vs/
+
+WebUI/nextjs/
+
+WebUI/Nuxt/.github/
+
+WpfTest/bin/
+
+WpfTest/obj/
